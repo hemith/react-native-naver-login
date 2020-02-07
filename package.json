@@ -1,5 +1,5 @@
 {
-  "name": "hemith/react-native-naver-login",
+  "name": "@hemith/react-native-naver-login",
   "version": "2.1.1",
   "description": "React Native Module for Naver Login",
   "main": "index.js",
