@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-seoul/naver-login",
-  "version": "2.1.0",
+  "name": "hemith/react-native-naver-login",
+  "version": "2.1.1",
   "description": "React Native Module for Naver Login",
   "main": "index.js",
   "postinstall": "dooboolab-welcome postinstall",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-seoul/react-native-naver-login"
+    "url": "git+https://github.com/hemith/react-native-naver-login"
   },
   "keywords": [
     "react-native",
@@ -24,10 +24,9 @@
     "네아로",
     "네이버",
     "react-native-seoul",
-    "dooboolab",
     "naver-login"
   ],
-  "author": "dooboolab, Jongwoo Moon",
+  "author": "hemith",
   "license": "MIT",
   "peerDependencies": {
     "react": "*",
