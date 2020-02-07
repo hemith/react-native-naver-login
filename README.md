@@ -1,4 +1,9 @@
-# hemith/react-native-naver-login
+# @hemith/react-native-naver-login
+
+[![npm version](http://img.shields.io/npm/v/@hemith/react-native-naver-login.svg?style=flat-square)](https://npmjs.org/package/@hemith/react-native-naver-login)
+[![downloads](http://img.shields.io/npm/dm/@hemith/react-native-naver-login.svg?style=flat-square)](https://npmjs.org/package/@hemith/react-native-naver-login)
+[![license](http://img.shields.io/npm/l/@hemith/react-native-naver-login.svg?style=flat-square)](https://npmjs.org/package/@hemith/react-native-naver-login)
+
 
 아래 에러를 해결하는 android/build.gradle 파일을 포함합니다.
 
